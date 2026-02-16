@@ -7,6 +7,6 @@
   "license": "BSD",
   "dependencies": {
     "yar": "3.x.x",
-    "hapi": "8.x.x"
+    "hapi": "18.1.0"
   }
 }
